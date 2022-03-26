@@ -1,5 +1,5 @@
 function makeTimer1() {
-	var endTime = new Date("March 20, 2022 16:30:00 UTC");
+	var endTime = new Date("March 28, 2022 16:30:00 UTC");
 	var endTime = Date.parse(endTime) / 1000;
 
 	var now = new Date();
